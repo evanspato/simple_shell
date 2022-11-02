@@ -27,4 +27,5 @@ drwxrwxr-x 3 vagrant vagrant  4096 Nov 26 01:42 concepts
 ($)
 
 Authurs
-Annah Nokutheza Mwanza and Evans Osaro
+Annah Nokutheza Mwanza: Development and documentation
+and Evans Osaro: Development and documentation
